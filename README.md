@@ -5,4 +5,4 @@ It is a very short python script to check cowin vaccine slots, just download it 
 
 # I am Nehal Singh a programmer
 
-#please share this project as much possible
+please share this project as much possible
